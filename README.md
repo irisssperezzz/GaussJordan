@@ -26,6 +26,6 @@ two application project, a **Python** and a **Java** version.
     * [Gauss-Jordan Method Tutorial](https://www.youtube.com/watch?v=xOLJMKGNivU)
       is a command-line tutorial (no gui) but hardcoded input
 
-Please kindly read the [License](./LICENSE) before using the application
+Please kindly read the [License](LICENSE) before using the application
 
 ---
