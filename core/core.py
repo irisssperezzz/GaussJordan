@@ -40,7 +40,7 @@ def gaussjordan(matrix_a, matrix_b):
     return matrix_b, matrix_a
 
 def main():
-    # sample TODO: remove later and implement unit testing
+    # sample
     a = [[12, 2, 0, 1],
          [2, 0, 3, 2],
          [4, -3, 0, 1],

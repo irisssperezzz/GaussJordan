@@ -1,6 +1,6 @@
 # GAUSS-JORDAN ELIMINATION PROJECT
 
-**_Progress:_** ![Progress](https://progress-bar.xyz/31)
+**_Progress:_** ![Progress](https://progress-bar.xyz/35)
 
 An application to solve matrices through **Gauss-Jordan**
 Elimination Method of a Linear Equation with the integration
@@ -12,7 +12,8 @@ The project is currently under development, and it comes in
 two application project, a **Python** and a **Java** version.
 
 ## WHAT IS GAUSS-JORDAN ELIMINATION
-* 
+
+*
 
 ## INSTALLATION
 
@@ -21,7 +22,9 @@ two application project, a **Python** and a **Java** version.
 
 ## ALGORITHM
 
-* [refer to mechtutor's code algorithm and step-by-step solving method]
+* [refer to mechtutor's code algorithm and step-by-step
+  solving method]
+* Two-way explanation
 
 ## REFERENCES
 
