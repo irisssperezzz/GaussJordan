@@ -1,6 +1,6 @@
 # CSM: GAUSS-JORDAN ELIMINATION PROJECT (Square matrix solver)
 
-**_Progress:_** ![Progress](https://progress-bar.xyz/60)
+**_Progress:_** ![Progress](https://progress-bar.xyz/90)
 
 An application to solve matrices through **Gauss-Jordan**
 Elimination Method of a Linear Equation with the integration
@@ -24,14 +24,14 @@ to get the solution.
 
 ## INSTALLATION
 
-* [use PyInstaller for compiling into .exe format]
-* [requirements.txt soon for dependencies]
+* Made use of an alternative compiling `auto-py-to-exe`
+* Added requirements for dependencies
+* But the application is standalone, offline, and do not need external imports
 
 ## ALGORITHM
 
 * [refer to mechtutor's code algorithm and step-by-step
   solving method]
-* Two-way explanation
 
 ## REFERENCES
 
